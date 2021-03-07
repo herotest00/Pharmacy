@@ -1,0 +1,9 @@
+﻿  domain.c
+  main.c
+  repository.c
+  service.c
+  tests.c
+  ui.c
+  validator.c
+  Generating Code...
+  lab2-4.vcxproj -> D:\Users\Adrian\Desktop\Faculta\An1\Sem 2\OOP\Laborator\lab2-4\Debug\lab2-4.exe

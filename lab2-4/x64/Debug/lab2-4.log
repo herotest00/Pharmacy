@@ -1,0 +1,19 @@
+﻿  domain.c
+C:\Users\adria\OneDrive\Desktop\Faculta\OOP\Laborator\lab2-4\lab2-4\domain.c(32,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(133): message : see declaration of 'strcpy'
+  main.c
+  repository.c
+  service.c
+C:\Users\adria\OneDrive\Desktop\Faculta\OOP\Laborator\lab2-4\lab2-4\service.c(42,17): warning C4013: 'delMedR' undefined; assuming extern returning int
+  ui.c
+C:\Users\adria\OneDrive\Desktop\Faculta\OOP\Laborator\lab2-4\lab2-4\ui.c(13,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\adria\OneDrive\Desktop\Faculta\OOP\Laborator\lab2-4\lab2-4\ui.c(38,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\adria\OneDrive\Desktop\Faculta\OOP\Laborator\lab2-4\lab2-4\ui.c(88,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+  validator.c
+  Generating Code...
+C:\Users\adria\OneDrive\Desktop\Faculta\OOP\Laborator\lab2-4\lab2-4\repository.c(32): warning C4715: 'actualMedR': not all control paths return a value
+C:\Users\adria\OneDrive\Desktop\Faculta\OOP\Laborator\lab2-4\lab2-4\repository.c(42): warning C4715: 'delMedR': not all control paths return a value
+C:\Users\adria\OneDrive\Desktop\Faculta\OOP\Laborator\lab2-4\lab2-4\repository.c(23): warning C4716: 'addMedR': must return a value
